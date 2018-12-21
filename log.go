@@ -1,4 +1,4 @@
-package log
+package ilog
 
 // Log log interface
 type Log interface {
